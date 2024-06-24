@@ -5,7 +5,8 @@ DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk m
 ## Key Repositories
 
 ### Website
-- [DESDR Website](https://github.com/Columbia-DESDR/columbia-desdr.github.io): Official site for project information and updates.
+- [Current website](https://github.com/Columbia-DESDR/columbia-desdr.github.io): Current official site for project information and updates.
+- [Old website](https://github.com/Columbia-DESDR/website-main): Old official site
 
 ### Sliders
 - [Sliders Codebase for Ethiopia, Nigeria, and DRC](https://github.com/Columbia-DESDR/Sliders): Working branches: ethiopia, nigeria, drc.
