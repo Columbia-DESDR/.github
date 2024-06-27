@@ -18,7 +18,7 @@ DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk m
 - [Sliders Zambia Deployment](https://github.com/Columbia-DESDR/Sliders-zambia)
 
 ### Reptile: Data verification tool
-- [Reptile Codebase](https://github.com/Columbia-DESDR/Reptile)
+- [Reptile codebase](https://github.com/Columbia-DESDR/Reptile)
 
-#### Survey your way: Mobile messaging tool for data collection
-- [Survey Your Way Codebase](https://github.com/Columbia-DESDR/desdr-survey-tool)
+#### NOKi: Mobile messaging tool for data collection
+- [NOKi codebase](https://github.com/Columbia-DESDR/NOKi)
