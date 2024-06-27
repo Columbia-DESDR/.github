@@ -20,5 +20,5 @@ DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk m
 ### Reptile: Data verification tool
 - [Reptile codebase](https://github.com/Columbia-DESDR/Reptile)
 
-#### NOKi: Mobile messaging tool for data collection
+### NOKi: Mobile messaging tool for data collection
 - [NOKi codebase](https://github.com/Columbia-DESDR/NOKi)
