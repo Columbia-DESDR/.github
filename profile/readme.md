@@ -1,6 +1,6 @@
 # Welcome to the DESDR Organization!
 
-DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk management for farmers and vulnerable communities by integrating firsthand information with satellite data (CHIRPS). This approach provides a more accurate representation of the impact of disasters. The project uses mobile messaging for data collection `(Survey Your Way)`, which respects local practices, and then verifies this data `(Reptile)` for secure storage and analysis. Our web-based platform, `Sliders`, allows stakeholders such as government officials, researchers, and policymakers to access and utilize this information for informed decision-making in disaster management.
+DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk management for farmers and vulnerable communities by integrating firsthand information with satellite data. This approach provides a more accurate representation of the impact of disasters. The project uses mobile messaging for data collection `(Survey Your Way)`, which respects local practices, and then verifies this data `(Reptile)` for secure storage and analysis. Our web-based platform, `Sliders`, allows stakeholders such as government officials, researchers, and policymakers to access and utilize this information for informed decision-making in disaster management.
 
 ## Key Repositories
 
