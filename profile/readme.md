@@ -9,6 +9,7 @@ DESDR (Decision Engine for Socioeconomic Disaster Risk) enhances disaster risk m
 - [Sliders Codebase for Zambia](https://github.com/Columbia-DESDR/Sliders-zambia-codebase)
 
 ### Deployment
+- [Sliders Rwanda Deployment](https://github.com/Columbia-DESDR/Sliders-rwanda)
 - [Sliders Madagascar Deployment](https://github.com/Columbia-DESDR/Sliders-madagascar)
 - [Sliders Ethiopia Deployment](https://github.com/Columbia-DESDR/Sliders-ethiopia)
 - [Sliders Nigeria Deployment](https://github.com/Columbia-DESDR/Sliders-nigeria)
